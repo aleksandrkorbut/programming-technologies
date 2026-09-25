@@ -14,6 +14,7 @@
             account1.MakeWithdrawal(1234, DateTime.UtcNow, ":(");
             Console.WriteLine(account1.Balance);
 
+            Console.WriteLine(account1.GetAccountHistory());
             try
             {
                 account2.MakeWithdrawal(10000, DateTime.UtcNow, " ");
