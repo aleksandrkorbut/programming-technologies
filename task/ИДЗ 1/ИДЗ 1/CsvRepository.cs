@@ -13,7 +13,6 @@ namespace ИДЗ_1
         /// <param name="basePatch"></param>
         public CsvRepository(string basePatch) { _basePatch = basePatch; }
 
-
         /// <summary>
         /// Принимает информацию из файла Branch.csv и выдает ее 
         /// </summary>

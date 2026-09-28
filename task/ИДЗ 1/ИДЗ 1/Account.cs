@@ -46,6 +46,7 @@ namespace ИДЗ_1
         {
             if (rate <= 0) return 0;
             return Balance / (decimal)rate;
+
         }
         /// <summary>
         /// Выдает информации аккаунта
