@@ -5,7 +5,7 @@ using System.Text;
 namespace ИДЗ_1
 {
     internal class CsvRepository
-    {
+    { 
         private string _basePatch;
         /// <summary>
         /// Конструктор класса CsvRepository
