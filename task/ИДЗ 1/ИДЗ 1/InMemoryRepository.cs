@@ -27,6 +27,7 @@ namespace ИДЗ_1
             };
             _client = new List<Client>
             {
+
                 new Client { Id = 1, FullName = "Михеев И.Б.", Passport = "5407 097398", Pfone = "89330998722" },
                 new Client { Id = 2, FullName = "Молотов И.А.", Passport = "5489 080910", Pfone = "89330891323" },
                 new Client { Id = 3, FullName = "Тон И.И.", Passport = "5509 090203", Pfone = "89137778177" },
