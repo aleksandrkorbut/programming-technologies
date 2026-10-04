@@ -87,8 +87,6 @@
 
                             FindClientAccount(accounts, number, clients);
 
-
-
                             Console.WriteLine("Задание 2 Ведиет номер счета (пример 0000000)");
                             string? number1 = Console.ReadLine();
                             if (number1 == null)
