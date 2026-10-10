@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="пара_11._09_bank.BankAccount">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>YAAAAACAAAAAAAAEAEgAAAAIAABAAQAQAAQAAQAAAAA=</HashCode>
+      <FileName>BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="пара_11._09_bank.GiftCartAccount">
+    <Position X="4.5" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>GiftCartAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="пара_11._09_bank.InterestEarningAccount">
+    <Position X="4.5" Y="3.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>InterestEarningAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="пара_11._09_bank.LineOnCreditAccount" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>LineOnCreditAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="пара_11._09_bank.Program">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
